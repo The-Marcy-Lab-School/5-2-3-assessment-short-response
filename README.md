@@ -16,24 +16,24 @@ You got this!
 
 ## Resources from this module
 
-**Additional Resources**
-
-- [W3 Schools - What is `this`?](https://www.w3schools.com/js/js_this.asp)
-- [MDN - What is a closure?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-- [What are Factory Functions?](https://www.javascripttutorial.net/javascript-factory-functions/)
-- [What is Polymorphism?](https://www.youtube.com/watch?v=YkhLw5tYR6c&ab_channel=dcode)
-- [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
-
-#### Week 1
+### Week 1
 
 * **1/29/24 - Encapsulation & Closures** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-0-encapsulation-factories-closure-f23) | [Recording](https://youtu.be/zVYpcVLxXe8)
 * **1/30/24 - Class Basics** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-1-classes-f23) | [Recording](https://youtu.be/Zl0MRLBTdq0)
 * **1/31/24 - Private Properties, Static Methods** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-0-2-private-properties-static-methods) | [Recording](https://youtu.be/2CjQjFLbZBk)
 * **2/1/24 - Review** | [Repo with Code](https://github.com/benspector-mls/5-0-3-oop-review) | [Recording](https://youtu.be/yOBKtgitVK8)
 
-#### Week 2
+### Week 2
 
 * **2/5/24 - Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-0-has-many-belongs-to-f23) | [Recording](https://youtu.be/994yn_IKogQ)
 * **2/5/24 - Lab review** | [Recording](https://youtu.be/MIOupwTF-2M)
 * **2/6/24 - Implementing Has Many/Belongs To** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-1-has-many-belongs-to-front-end)
 * **2/8/24 - Extending Classes** | [Repo with Code](https://github.com/The-Marcy-Lab-School/5-1-3-inheritance-polymorphism-f23)
+
+### Additional Resources
+
+* [W3 Schools - What is `this`?](https://www.w3schools.com/js/js_this.asp)
+* [MDN - What is a closure?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+* [What are Factory Functions?](https://www.javascripttutorial.net/javascript-factory-functions/)
+* [What is Polymorphism?](https://www.youtube.com/watch?v=YkhLw5tYR6c&ab_channel=dcode)
+* [Classes are great but... use Composition Instead of Inheritance](https://www.youtube.com/watch?v=nnwD5Lwwqdo)
